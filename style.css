@@ -1,0 +1,38 @@
+.container{
+    color: aqua;
+    background-color: black;
+    .first{
+        text-align: left;
+        text-transform: capitalize;
+        font-size: 50px;
+        color: palevioletred;
+        text-decoration: none;
+    }
+    #gayu{
+        text-decoration: none;
+        text-transform: uppercase;
+        color: green;
+    }
+    .second{
+        text-decoration: underline;
+        text-transform: capitalize;
+        text-align: left;
+
+    }
+    .para1{
+        text-align: justify;
+        text-transform: lowercase;
+        text-decoration: none;
+    }
+    h1{
+        text-align: center;
+        text-decoration: underline;
+        color: lightsalmon;
+        font-size: 80px;
+        text-transform: capitalize;
+    }
+    
+}
+.g{
+    font-size: 50px;
+}
